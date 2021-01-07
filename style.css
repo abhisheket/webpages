@@ -1,0 +1,16 @@
+h3{
+  color: #587E5E;
+}
+body{
+  background-color: #C5DDF5;
+}
+.copyright{
+  padding: 0.625rem 0;
+  color: #000;
+  font-size: 1rem;
+}
+.bottom-container{
+  padding: 1.25rem 0 0.625rem;
+  background-color: #AED6F1;
+  text-align: center;
+}
